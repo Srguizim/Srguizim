@@ -1,4 +1,3 @@
-## Hi there 👋
 # <p align="center"> 𝔅𝔞𝔠𝔨𝔢𝔫𝔡 𝔡𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯 𝔦𝔫 𝔱𝔯𝔞𝔦𝔫𝔦𝔫𝔤 </p>
 
 <p align="center">
