@@ -6,23 +6,19 @@
 
 ---
 
-<div align="center">
-<table border="1">
-  <tr>
-    <td width="50%" align="left">
-      <br/>
-      <ul>
-        <li> 💠 <b>Turma</b> &rarr; Aprendiz de Backend / Full-Stack </li>
-        <li> 💠 <b>Origem</b> &rarr; Brasil 🇧🇷 </li>
-      </ul>
-    </td>
-    <td width="50%" align="center">
-      <!-- Substitua o link abaixo pelo link do seu GIF -->
-      <img src="https://media.giphy.com/media/seu-gif-aqui.gif" width="300px">
-    </td>
-  </tr>
-</table>
-</div>
+## Tecnologias
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCODE-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
 
 ## Tecnologias
 <p align="left">
